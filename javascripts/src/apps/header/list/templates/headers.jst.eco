@@ -1,0 +1,12 @@
+<div id="header" class="navbar navbar-default">
+	<div class="navbar-inner">
+		<div class="container">
+			<div class="header">
+				<div class="pull-left">
+					 <a class="navbar-brand" href="#">Brand</a>
+				</div>
+				<ul class="nav navbar-nav pull-right"></ul>
+			</div>
+		</div>
+	</div>
+</div>
